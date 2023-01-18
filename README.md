@@ -1,1 +1,1 @@
-# Course-Waitlist
+# Course-Waitlist School Project
